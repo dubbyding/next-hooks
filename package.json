@@ -10,7 +10,7 @@
 	},
 	"husky": {
 		"hooks": {
-			"pre-commit": "echo \"Hello\""
+			"pre-commit": "lint-staged"
 		}
 	},
 	"lint-staged": {
